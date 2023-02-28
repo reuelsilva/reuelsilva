@@ -58,12 +58,12 @@ main > section#home{
 
 section#home > div#boas-vindas{
     width: 600px;
-    height: 280px;
+    height: 300px;
     display: inline-block;
     background-color: rgba(211, 211, 211, 0.274);
     color: white;
     position: absolute;
-    top: 25%;
+    top: 22%;
     left: 10%;
     border-radius: 10px;
     padding: 20px;
@@ -127,16 +127,6 @@ section#projetos > a > div:hover{
     border: 2px solid white;
 }
 
-
-section#projetos > a > div > h2{
-    background-color: rgba(72, 150, 124, 0.616);
-    color: white;
-    position: absolute;
-    bottom: 10px;
-    width: 100%;
-    text-align: center;
-}
-
 section#projetos > a > div#pjt-01{
     background-image: url(../imagens/thumb-hbomax.png);
     background-size: cover;
@@ -153,19 +143,19 @@ section#projetos > a > div#pjt-03{
 }
 
 section#aviso{
-    height: 180px;
-    background-color: rgb(65, 65, 65);
+    height: 160px;
+    background-color: black;
 
 }
 
 section#aviso p{
     text-align: center;
     color: white;
-    font-size: 18px;
+    
 }
 
 section#aviso img{
     display: block;
     margin: auto;
-    padding: 30px 0px;
+    padding: 25px 0px;
 }
