@@ -1,6 +1,9 @@
 ### Olá, mundo dev 👋🌐
-<p>Bem vindo ao meu perfil, me chamo <strong>Reuel</strong> e sou desenvolvedor front-end (com conhecimentos básicos de back-end)</p>
+<p>Bem vindo ao meu perfil, me chamo <strong>Reuel</strong> e sou desenvolvedor front-end (com conhecimentos básicos de back-end).</p>
 <div>
+  <a href="mailto:reuelsilva98@gmail.com>" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/reuelsilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
