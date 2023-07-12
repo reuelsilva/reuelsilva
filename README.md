@@ -13,7 +13,7 @@
 </div>
 <br>
 <div>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelsilva&layout=donut"/> 
+  <img height="190px" src="https://github-readme-stats-reuelsilva.vercel.app/api/top-langs/?username=reuelsilva&layout=donut"/> 
   <img height="190px" src="https://github-readme-stats.vercel.app/api?username=reuelsilva&show_icons=true"/>
 </div>
 <h2>Skills</h2>
