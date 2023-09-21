@@ -13,7 +13,7 @@
 </div>
 <br>
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=reuelsilva&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=reuelsilva&show_icons=true&theme=github_dark&include_all_commits=true&exclude_repo="portifolio"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelsilva&layout=donut&langs_count=16&theme=github_dark" />
 </div>
 <h2>Skills</h2>
