@@ -14,7 +14,7 @@
 <br>
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=reuelsilva&show_icons=true&theme=github_dark&include_all_commits=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelsilva&layout=donut&langs_count=16&theme=github_dark&exclude_repo=portifolio, html-css, javascript" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuelsilva&layout=donut&langs_count=16&theme=github_dark&exclude_repo=portifolio,html-css,javascript" />
 </div>
 <h2>Skills</h2>
 <div>
