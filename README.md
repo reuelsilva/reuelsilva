@@ -26,3 +26,7 @@
   <img src="https://skillicons.dev/icons?i=python"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW16cmlnOXo3cjE0b3piODRvc2Z6ejhpcTIyYXl2Y3U2Z3g1dDhpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="150" align="right"/>
 </div>
+<h2>🎓 Formação</h2>
+  <p><strong>• Análise e Desenvolvimento de Sistemas</strong></p>
+ <p><em>Universidade Cruzeiro do Sul</em></p>
+
