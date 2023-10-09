@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=css"/>
   <img src="https://skillicons.dev/icons?i=javascript"/>
   <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=java&theme=light"/>
   <img src="https://skillicons.dev/icons?i=python"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW16cmlnOXo3cjE0b3piODRvc2Z6ejhpcTIyYXl2Y3U2Z3g1dDhpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="150" align="right"/>
