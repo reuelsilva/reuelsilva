@@ -20,6 +20,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=javascript"/>
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=git"/>
