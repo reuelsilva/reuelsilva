@@ -1,5 +1,5 @@
 ### Olá, mundo dev 👋🌐
-<p>Bem vindo ao meu perfil, me chamo <strong>Reuel</strong> e sou desenvolvedor front-end (com conhecimentos básicos de back-end).</p>
+<p>Bem vindo ao meu perfil, me chamo <strong>Reuel</strong> e sou desenvolvedor front-end.</p>
 <div>
   <a href="mailto:reuelsilva98@gmail.com>" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-F51720?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -19,9 +19,10 @@
 <div>
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=javascript"/>
   <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=typescript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=java&theme=light"/>
   <img src="https://skillicons.dev/icons?i=python"/>
