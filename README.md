@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=javascript"/>
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=typescript"/>
+  <img src="https://skillicons.dev/icons?i=next"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://skillicons.dev/icons?i=java&theme=light"/>
