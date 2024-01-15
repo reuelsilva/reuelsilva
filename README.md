@@ -22,8 +22,10 @@
   <img src="https://skillicons.dev/icons?i=typescript"/>
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=next"/>
+  <img src="https://skillicons.dev/icons?i=scss"/>
+  <img src="https://skillicons.dev/icons?i=tailwind"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=next"/>
   <img src="https://skillicons.dev/icons?i=git"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW16cmlnOXo3cjE0b3piODRvc2Z6ejhpcTIyYXl2Y3U2Z3g1dDhpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="150" align="right"/>
 </div>
